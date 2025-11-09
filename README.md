@@ -23,6 +23,9 @@ Reduces the risk of missing or repeating doses.
 
 The application provides a secure login system using Supabase, ensuring that each user’s medicine history and dosage data remain private and accessible only to them.
 
+<img width="1333" height="824" alt="image" src="https://github.com/user-attachments/assets/9489cffb-fa8c-4fe6-b464-ff16f8d2086c" />
+
+
 🌟 Key Objectives
 
 To provide a centralized platform for searching medicines with live availability and pricing.
